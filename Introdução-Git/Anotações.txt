@@ -1,3 +1,6 @@
+Alguns comandos do Git.
 
-ls
-cat
+git clone = clona um repositório
+git add . = adiciona o arquivo ao commit do Git
+git commit -m "Comentário do commit que será enviado."
+git push origin main
